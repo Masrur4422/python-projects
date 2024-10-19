@@ -102,3 +102,6 @@ with ZipFile(filepath, "r") as zip_file:
 
         else:
             print("Введите допустимую команду (ls, pwd, exit, datetime, tree, rev, touch)")
+            
+
+## a;kfmoa
